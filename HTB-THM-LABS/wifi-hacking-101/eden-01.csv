@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+F0:9F:C2:81:92:DF, 2024-08-16 12:22:45, 2024-08-16 12:24:54,  1, 130, WPA2, CCMP, PSK, -26,       62,       17,   0.  0.  0.  0,   8, EDENHILL, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+66:CB:6F:07:9F:70, 2024-08-16 12:22:52, 2024-08-16 12:24:48, -74,       91, F0:9F:C2:81:92:DF,
+

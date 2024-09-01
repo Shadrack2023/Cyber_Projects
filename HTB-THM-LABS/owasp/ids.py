@@ -1,6 +1,3 @@
-# Open a file called ids.txt in write mode
-with open('ids.txt', 'w') as file:
-    # Loop through numbers 0 to 1000
-    for number in range(1001):
-        # Write each number followed by a newline character
-        file.write(f"{number}\n")
+version https://git-lfs.github.com/spec/v1
+oid sha256:10881c7cf45ed76dc44842a0fef95129c503b44571a38a6da6303d4e77e70be0
+size 240

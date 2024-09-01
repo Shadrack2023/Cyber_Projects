@@ -1,7 +1,3 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-62:AD:F4:29:6B:16, 2024-07-28 22:49:57, 2024-07-28 22:50:24,  6,  65, WPA2, CCMP, PSK, -25,      211,      198,   0.  0.  0.  0,   9, SCr3@tur3, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-26:DE:32:24:BC:61, 2024-07-28 22:50:10, 2024-07-28 22:50:21, -25,      215, 62:AD:F4:29:6B:16,SCr3@tur3
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:19991bbb7ec292c4ba25d48a6b7c051065f56a0e1f9d59e83b3ead6a77104d6c
+size 488
